@@ -1,0 +1,5 @@
+/* assets/css/styles.css */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card { border-radius: 10px; }
+.experience-item, .reference-item { position: relative; }
+.btn-close { position: absolute; right: 12px; top: 10px; }
